@@ -1,0 +1,26 @@
+<annotation>
+	<folder>FRAMES NUCLEAR</folder>
+	<filename>output_1156.png</filename>
+	<path>C:\Users\USUARIO\Desktop\FRAMES NUCLEAR\output_1156.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>alpha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>49</ymin>
+			<xmax>276</xmax>
+			<ymax>60</ymax>
+		</bndbox>
+	</object>
+</annotation>

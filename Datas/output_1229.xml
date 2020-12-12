@@ -1,0 +1,38 @@
+<annotation>
+	<folder>frames_Video</folder>
+	<filename>output_1229.png</filename>
+	<path>C:\Users\Nueva Cuenta\Downloads\frames_Video\output_1229.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>alpha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>133</ymin>
+			<xmax>291</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>alpha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>337</xmin>
+			<ymin>175</ymin>
+			<xmax>344</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>

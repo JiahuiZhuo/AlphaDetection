@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AL1.1</folder>
+	<filename>output_0050.png</filename>
+	<path>C:\Users\usuario\Downloads\frames_Video\AL1.1\output_0050.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>alpha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>124</ymin>
+			<xmax>292</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+</annotation>

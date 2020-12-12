@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Alphas labelling for AI training</folder>
+	<filename>output_1317.png</filename>
+	<path>C:\Users\victo\OneDrive\Documentos\4º Física UV\FÍSICA NUCLEAR Y DE PARTÍCULES\LABORATORI\Camara de niebla\Alphas labelling for AI training\output_1317.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>alpha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>404</xmin>
+			<ymin>52</ymin>
+			<xmax>465</xmax>
+			<ymax>81</ymax>
+		</bndbox>
+	</object>
+</annotation>

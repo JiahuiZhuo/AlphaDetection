@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Camara de niebla</folder>
+	<filename>output_0437.png</filename>
+	<path>D:\Uni\4\nuclear\lab\camara de nieblaç\Camara de niebla\output_0437.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>alpha</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>372</xmin>
+			<ymin>1</ymin>
+			<xmax>425</xmax>
+			<ymax>12</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>frames</folder>
+	<filename>output_0316.png</filename>
+	<path>C:\Users\Javier Altieri\Desktop\FISICA\QUART\fnp\lab\camara de las tinieblas\AL1\frames\output_0316.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>alpha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>166</ymin>
+			<xmax>321</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>alpha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>389</xmin>
+			<ymin>39</ymin>
+			<xmax>407</xmax>
+			<ymax>55</ymax>
+		</bndbox>
+	</object>
+</annotation>

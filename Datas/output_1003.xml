@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Mi parte</folder>
+	<filename>output_1003.png</filename>
+	<path>D:\Lambellg\Mi parte\output_1003.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>alpha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>138</ymin>
+			<xmax>174</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>alpha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>479</xmin>
+			<ymin>57</ymin>
+			<xmax>498</xmax>
+			<ymax>90</ymax>
+		</bndbox>
+	</object>
+</annotation>

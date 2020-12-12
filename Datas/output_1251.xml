@@ -1,0 +1,38 @@
+<annotation>
+	<folder>frames_Video</folder>
+	<filename>output_1251.png</filename>
+	<path>C:\Users\Nueva Cuenta\Downloads\frames_Video\output_1251.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>alpha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>387</xmin>
+			<ymin>173</ymin>
+			<xmax>394</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>alpha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>354</xmin>
+			<ymin>16</ymin>
+			<xmax>362</xmax>
+			<ymax>27</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mi parte</folder>
+	<filename>output_1016.png</filename>
+	<path>D:\Lambellg\Mi parte\output_1016.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>alpha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>529</xmin>
+			<ymin>144</ymin>
+			<xmax>543</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>

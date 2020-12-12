@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Jiahui</folder>
+	<filename>output_1073.png</filename>
+	<path>/home/jiahuiz/Documents/FNiP/Camara de niebla/Frames/Jiahui/output_1073.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>alpha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>33</ymin>
+			<xmax>181</xmax>
+			<ymax>45</ymax>
+		</bndbox>
+	</object>
+</annotation>

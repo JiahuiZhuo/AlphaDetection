@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Camara de niebla</folder>
+	<filename>output_0396.png</filename>
+	<path>D:\Uni\4\nuclear\lab\camara de nieblaç\Camara de niebla\output_0396.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>alpha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>407</xmin>
+			<ymin>77</ymin>
+			<xmax>466</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>alpha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>19</ymin>
+			<xmax>251</xmax>
+			<ymax>38</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>alpha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>39</ymin>
+			<xmax>245</xmax>
+			<ymax>59</ymax>
+		</bndbox>
+	</object>
+</annotation>
